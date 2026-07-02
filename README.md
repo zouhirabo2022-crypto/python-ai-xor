@@ -1,5 +1,6 @@
 # TP - Mini Réseau de Neurones avec NumPy (XOR)
 
+
 TP du module Python pour l'IA - implémentation d'un réseau de neurones de zéro avec NumPy et Matplotlib (sans framework comme TensorFlow/PyTorch).
 
 ## Contenu
